@@ -21,7 +21,7 @@ Many philanthropic organizations and federal funders encourage their grantees to
 
 (provide guidance as to what language to use)
 
-**Impact** In contrast to closed access manuscripts, manuscripts that
+**Impact:** In contrast to closed access manuscripts, manuscripts that
 are deposited in open access archives and preprint servers can be used
 by data mining and machine learning experts to extract scientific
 facts and build ontologies, magnifying their long term utility to the
@@ -33,7 +33,7 @@ Science increasingly rests on methods implemented in software applications, soft
 
 (guidance on language)
 
-**Impact**: Source code released under an open source license can be
+**Impact:** Source code released under an open source license can be
 freely updated, remixed with other software, combined into larger
 pipelines, and packaged and distribute by other people; for example,
 many bioinformaticians get their software through the debian and
@@ -50,7 +50,7 @@ When should scientists share data? Some fields and journals have a culture that 
 
 (guidance on language)
 
-**Impact**: Data that is not findable, accessible, interoperable, or
+**Impact:** Data that is not findable, accessible, interoperable, or
 reusable
 ([FAIR](https://www.force11.org/group/fairgroup/fairprinciples)) is
 generally unavailable to researchers after publication.  For example,
